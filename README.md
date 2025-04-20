@@ -39,3 +39,9 @@ Context Store is a shopping application developed with React. Users can filter p
 # Nowa-Store
 
 ![Nowa Store](https://github.com/user-attachments/assets/c7820bfb-53ca-4011-a3cd-eb6a88531919)
+
+📧 Contact
+semra.gunaydinwork@outlook.com
+gunaydinsemra34@gmail.com
+
+Enjoy coding👩‍💻🎋
